@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Date Counter</string>
+    <string name="event_name">Event Name</string>
+    <string name="description">Description</string>
+    <string name="date_only_no_time">Date only (no time)</string>
+    <string name="star_this_event">Star this event</string>
+    <string name="select_date_and_time">Select Date and Time</string>
+    <string name="todo">TODO</string>
+    <string name="select_an_event_for_the_widget">Select an event for the widget</string>
+</resources>
