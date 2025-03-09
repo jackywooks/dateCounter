@@ -75,17 +75,14 @@ DateCounter is an Android application that helps users track important dates and
 This project is licensed under the MIT License.
 
 ## Third-Party Libraries and Licenses
-
 This app uses the following open-source libraries:
 
 ### AndroidX Libraries
-- **AndroidX Core KTX** - Apache 2.0 License
-- **AndroidX AppCompat** - Apache 2.0 License
-- **Material Components for Android** - Apache 2.0 License
-- **ConstraintLayout** - Apache 2.0 License
-
+- **AndroidX Core KTX**
+- **AndroidX AppCompat** 
+- **Material Components for Android**
+- **ConstraintLayout**
+  
 ### Room Persistence Library
-- **Room Runtime** - Apache 2.0 License
-- **Room Compiler** - Apache 2.0 License
-
-### Apache License 2.0
+- **Room Runtime**
+- **Room Compiler** 
