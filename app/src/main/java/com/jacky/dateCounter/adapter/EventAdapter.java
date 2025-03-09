@@ -135,6 +135,11 @@ public class EventAdapter
             dateText.setTextColor(
                     itemView.getContext().getColor(android.R.color.black)
             );
+            timeText.setTextColor(
+                    itemView.getContext().getColor(android.R.color.black)
+            );
+
+
             descriptionText.setTextColor(
                     itemView.getContext().getColor(android.R.color.black)
             );

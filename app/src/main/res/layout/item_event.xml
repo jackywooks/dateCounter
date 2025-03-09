@@ -84,7 +84,8 @@
             android:layout_toEndOf="@id/circleBackground"
             android:layout_marginStart="16dp"
             android:layout_marginTop="8dp"
-            android:orientation="horizontal">
+            android:orientation="vertical"
+            android:layout_gravity="start">
 
             <TextView
                 android:id="@+id/eventDate"
@@ -98,10 +99,10 @@
                 android:id="@+id/eventTime"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="8dp"
+                android:layout_marginTop="5dp"
                 android:textSize="14sp"
-                android:fontFamily="@font/roboto_regular"
-                android:textColor="?attr/colorSecondary"/>
+                android:fontFamily="@font/roboto_medium"
+                android:textColor="?attr/colorPrimary"/>
         </LinearLayout>
 
         <TextView
