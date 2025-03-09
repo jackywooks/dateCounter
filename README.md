@@ -11,7 +11,11 @@ DateCounter is an Android application that helps users track important dates and
 
 ## Screenshots
 
-[Insert screenshots here]
+InApp:
+![image](https://github.com/user-attachments/assets/694dbbbd-08f1-493e-b5b6-28c74aa2750e)
+Widget:
+![image](https://github.com/user-attachments/assets/154641ba-114d-44c5-a8e4-8fab1a59fb13)
+
 
 ## Technical Architecture
 
@@ -43,13 +47,12 @@ DateCounter is an Android application that helps users track important dates and
 
 ## Installation
 ###By Android Studio
-
 1. Clone this repository
 2. Open the project in Android Studio
 3. Build and run the application on your device or emulator
 
 ### By APK
-1. Download the APK [Here](https://github.com/jackywooks/dateCounter/blob/main/dateCounter.apk)
+1. Download the APK [Here](https://github.com/jackywooks/dateCounter/tree/main/dateCounter)
 2. Install it
 
 ## Usage
@@ -57,7 +60,8 @@ DateCounter is an Android application that helps users track important dates and
 ### Adding an Event
 1. Tap the floating action button (+)
 2. Enter event name, description, and date
-3. Tap Save
+3. ![image](https://github.com/user-attachments/assets/1439e077-e719-48d9-9f33-21a5816ea389)
+4. Tap Save
 
 ### Editing an Event
 1. Long-press on an event
@@ -76,13 +80,11 @@ This project is licensed under the MIT License.
 
 ## Third-Party Libraries and Licenses
 This app uses the following open-source libraries:
-
 ### AndroidX Libraries
 - **AndroidX Core KTX**
 - **AndroidX AppCompat** 
 - **Material Components for Android**
 - **ConstraintLayout**
-  
 ### Room Persistence Library
 - **Room Runtime**
 - **Room Compiler** 
