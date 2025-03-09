@@ -13,7 +13,7 @@ DateCounter is an Android application that helps users track important dates and
 
 InApp:
 
-![image](https://github.com/user-attachments/assets/694dbbbd-08f1-493e-b5b6-28c74aa2750e
+![image](https://github.com/user-attachments/assets/694dbbbd-08f1-493e-b5b6-28c74aa2750e)
 ![image](https://github.com/user-attachments/assets/b0b94e58-f3b5-4f31-8247-3fbc7e9d38fc)
 
 
