@@ -50,11 +50,11 @@ Widget:
 - Android Studio Arctic Fox or newer
 
 ## Installation
-###By Android Studio
+
+### By Android Studio
 1. Clone this repository
 2. Open the project in Android Studio
 3. Build and run the application on your device or emulator
-
 ### By APK
 1. Download the APK [Here](https://github.com/jackywooks/dateCounter/tree/main/dateCounter)
 2. Install it
@@ -66,7 +66,7 @@ Widget:
 2. Enter event name, description, and date
 3. ![image](https://github.com/user-attachments/assets/1439e077-e719-48d9-9f33-21a5816ea389)
 4. Tap Save
-
+   
 ### Editing an Event
 1. Long-press on an event
 2. Modify details in the dialog
